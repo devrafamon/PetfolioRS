@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109211AC-1242-D81F-3736-7F77A0023AF4}|Petfolio\\Petfolio.API.csproj|c:\\users\\usuario\\desktop\\petfolio\\petfolio\\petfolio\\petfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{109211AC-1242-D81F-3736-7F77A0023AF4}|Petfolio\\Petfolio.API.csproj|solutionrelative:petfolio\\petfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109211AC-1242-D81F-3736-7F77A0023AF4}|Petfolio\\Petfolio.API.csproj|c:\\users\\usuario\\desktop\\petfolio\\petfolio\\petfolio\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109211AC-1242-D81F-3736-7F77A0023AF4}|Petfolio\\Petfolio.API.csproj|solutionrelative:petfolio\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109211AC-1242-D81F-3736-7F77A0023AF4}|Petfolio\\Petfolio.API.csproj|c:\\users\\usuario\\desktop\\petfolio\\petfolio\\petfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109211AC-1242-D81F-3736-7F77A0023AF4}|Petfolio\\Petfolio.API.csproj|solutionrelative:petfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\Petfolio\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "Petfolio\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\Petfolio\\Controllers\\PetController.cs",
+              "RelativeToolTip": "Petfolio\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:44:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Petfolio.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\Petfolio\\Petfolio.API.csproj",
+              "RelativeDocumentMoniker": "Petfolio\\Petfolio.API.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\Petfolio\\Petfolio.API.csproj",
+              "RelativeToolTip": "Petfolio\\Petfolio.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-19T16:19:02.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\Petfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Petfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Petfolio\\Petfolio\\Petfolio\\Program.cs",
+              "RelativeToolTip": "Petfolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T16:09:27.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
